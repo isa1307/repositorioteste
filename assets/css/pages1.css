@@ -1,4 +1,6 @@
 form {
     flex-direction: column;
     display: flex;
+    width: 50%;
+    margin: auto;
 }
