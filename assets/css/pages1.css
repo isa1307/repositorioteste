@@ -4,3 +4,7 @@ form {
     width: 50%;
     margin: auto;
 }
+
+input{
+    background-color: rgb(226, 198, 43);
+}
