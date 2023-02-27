@@ -8,13 +8,13 @@ form {
 input {
     background-color: rgb(226, 198, 43);
     padding: 10px;
-   
-    
+
+
 }
 
 #a1 {
     width: 40%;
-    background-color: aqua;
+    background-color: rgb(255, 0, 0);
     margin: auto;
 }
 
@@ -25,22 +25,32 @@ input {
 
 #a2 {
     border-radius: 30px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     margin-bottom: 50px;
 }
 
 #a2:hover {
     border-color: rgb(255, 0, 119);
-    
+
 }
 
 #a3 {
     border-radius: 30px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     margin-bottom: 50px;
 }
 
 #a3:hover {
     border-color: rgb(255, 0, 140);
-   
+
+}
+
+#a4 {
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    margin-bottom: 50px;
+}
+
+#a4:hover {
+    border-color: rgb(255, 0, 119)
 }
